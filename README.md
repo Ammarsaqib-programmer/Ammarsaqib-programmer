@@ -43,7 +43,7 @@
 
 ## 📫 How to Reach Me
 
-- **Email**: your.email@example.com  
+- **Email**: ammarsaqib15june@gmail.com  
 - **GitHub**: https://github.com/Ammarsaqib-programmer
 
 
