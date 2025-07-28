@@ -41,8 +41,8 @@
 
 ## 🧠 Currently Learning
 
-- Deep Learning with TensorFlow & Keras
-- Advanced SQL for data warehousing
+- Deep Learning with TensorFlow & Keras  
+- Advanced SQL for data warehousing  
 - Time Series Analysis
 
 ---
@@ -54,6 +54,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammarsaqib-programmer&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=Ammarsaqib-programmer&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
 
 ---
@@ -61,10 +62,16 @@
 
 ---
 
+## 🌐 Portfolio Website
+
+🔗 [ammar-saqib.vercel.app](https://ammar-saqib.vercel.app)
+
+---
+
 ## 💼 Career Goals
 
-- Become a **Professional Data Scientist**
-- Work on impactful, real-world healthcare and business data problems
+- Become a **Professional Data Scientist**  
+- Work on impactful, real-world healthcare and business data problems  
 - Contribute to open-source ML and analytics communities
 
 ---
@@ -72,6 +79,7 @@
 ## 📫 How to Reach Me
 
 - **Email**: ammarsaqib15june@gmail.com  
+- **Portfolio**: [ammar-saqib.vercel.app](https://ammar-saqib.vercel.app)  
 - **GitHub**: [Ammarsaqib-programmer](https://github.com/Ammarsaqib-programmer)
 
 ---
