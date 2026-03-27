@@ -111,12 +111,11 @@ Predicts the likelihood of heart disease using supervised machine learning model
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammarsaqib-programmer&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ammarsaqib-programmer&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api?username=Ammarsaqib-programmer&show_icons=true&theme=tokyonight)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Ammarsaqib-programmer&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![](https://streak-stats.demolab.com?user=Ammarsaqib-programmer&theme=tokyonight)
 ---
 
 ## 🌐 Portfolio Website
