@@ -106,17 +106,14 @@ Predicts the likelihood of heart disease using supervised machine learning model
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Ammarsaqib-programmer&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Ammarsaqib-programmer&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammarsaqib-programmer&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ammarsaqib-programmer&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ammarsaqib-programmer&theme=tokyonight&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammarsaqib-programmer&theme=tokyonight&hide_border=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-readme-stats.vercel.app/api?username=Ammarsaqib-programmer&show_icons=true&theme=tokyonight)
-
----
-
-![](https://streak-stats.demolab.com?user=Ammarsaqib-programmer&theme=tokyonight)
----
+![Top Repo](https://github-contributor-stats.vercel.app/api?username=Ammarsaqib-programmer&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ## 🌐 Portfolio Website
 🔗 https://ammar-saqib.vercel.app
